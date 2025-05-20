@@ -5,12 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes 1/Sebastian.unity
+    path: Assets/ScenesFinales/0-Inicio.unity
+    guid: 0d4db62a37484b7439dadb2ff14be025
+  - enabled: 1
+    path: Assets/ScenesFinales/1-Sebastian.unity
     guid: 585f6d82a5e73df4c94ed6bd435e7f2a
+  - enabled: 1
+    path: Assets/ScenesFinales/2-Mario.unity
+    guid: 34c09a5b7dfd329489aad6291837a1fe
+  - enabled: 1
+    path: Assets/ScenesFinales/3-Omar.unity
+    guid: b1aa301cd2f87354d967804b8cf387db
+  - enabled: 1
+    path: Assets/ScenesFinales/4-Final.unity
+    guid: 48b5d04981c5ce94a8f5607c293429b1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
