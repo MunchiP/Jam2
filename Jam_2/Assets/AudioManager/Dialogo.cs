@@ -84,6 +84,6 @@ public class Dialogo : MonoBehaviour
             Debug.Log("Reproduciendo sonido: " + finalSound);
         }
 
-        SceneManager.LoadScene("Juego");
+        SceneManager.LoadScene("Sebastian");
     }
 }
