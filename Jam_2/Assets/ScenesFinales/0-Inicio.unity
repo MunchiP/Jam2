@@ -1622,6 +1622,8 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: f64ef1dff3416314089e6b24ad35f1cc, type: 3}
   - name: KidScream
     clip: {fileID: 8300000, guid: 620f89de47afca744bdd5b024db46bfb, type: 3}
+  - name: Desert
+    clip: {fileID: 8300000, guid: 05121b47667a66c408203793c98758ed, type: 3}
 --- !u!4 &1952248951
 Transform:
   m_ObjectHideFlags: 0

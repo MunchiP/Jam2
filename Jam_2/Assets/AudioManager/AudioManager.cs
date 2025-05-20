@@ -20,6 +20,7 @@ public class AudioManager : MonoBehaviour
         if (Instance == null) // Si no existe ningúna otra referencia de AudioManager
         {
             Instance = this; // Entonces use esta
+            DontDestroyOnLoad(gameObject); // Evita que se destruya el audio manager al cambiar de scena
         }
     }
 

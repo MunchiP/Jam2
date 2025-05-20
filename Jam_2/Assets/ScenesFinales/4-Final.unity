@@ -540,9 +540,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueLines:
-  - 
-  - "no hay ayuda que pueda brindar sin antes haberse curado a t\xED mismo."
-  - 
+  - ...
+  - "no hay ayuda que puedas brindar sin antes haberte curado a t\xED mismo."
+  - Estas lista para partir.
   dialoguePanel: {fileID: 70733742}
   dialogueText: {fileID: 364658405}
   finalSound: SoundKids
