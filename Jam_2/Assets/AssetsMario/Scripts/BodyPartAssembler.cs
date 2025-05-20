@@ -3,7 +3,7 @@ using UnityEngine;
 public class BodyPartAssembler : MonoBehaviour
 {
     [Header("Estado Inicial")]
-    [Range(0, 5)]
+    [Range(0, 4)]
     public int valorEstadoInicial;
 
     public SkinnedMeshRenderer skinPlayer;
